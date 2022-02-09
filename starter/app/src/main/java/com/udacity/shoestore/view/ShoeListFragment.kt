@@ -75,5 +75,4 @@ class ShoeListFragment : Fragment() {
             R.id.action_shoeListFragment_to_loginFragment
         )
     }
-
 }
