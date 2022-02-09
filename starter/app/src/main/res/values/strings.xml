@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">ShoeStore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_text">LOGIN</string>
+    <string name="sign_up_text">SIGN UP</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="welcome_text">WELCOME</string>
+    <string name="brand_name">AYMED</string>
+    <string name="button_instruction_text">GO TO INSTRUCTION</string>
+    <string name="contractHeader">Shoe Store Contract</string>
+    <string name="text_contract">The purpose of this Law is to protect the fundamental rights and freedoms of individuals, especially the privacy of private life, in the processing of personal data, and to regulate the obligations of natural and legal persons who process personal data and the procedures and principles to be followed.</string>
+    <string name="check_conract">I have read and accept the agreement</string>
+    <string name="shoe_list_text">GO TO SHOELIST</string>
+    <string name="username">UserName</string>
+    <string name="brand_desc">Aymed is a shoe store</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="shoe_details">Shoe Details</string>
 </resources>
